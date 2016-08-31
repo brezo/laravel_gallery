@@ -1,5 +1,7 @@
 <div style="text-align:center">
+
 [GitHub Logo](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg)
+
 </div>
 
 #Laravel Image Gallery

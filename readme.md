@@ -1,4 +1,5 @@
-[GitHub Logo style="margin:auto"](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg)
+
+![GitHub Logo](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg) {.center}
 
 
 #Laravel Image Gallery

@@ -1,4 +1,5 @@
-![GitHub Logo](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg)
+
+{:.center}![GitHub Logo](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg)
 
 
 #Laravel Image Gallery
@@ -13,3 +14,7 @@ Observações:
 
 
 
+
+.center {
+  text-align: center;
+}

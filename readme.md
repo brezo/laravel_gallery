@@ -1,5 +1,7 @@
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-<img src="https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg" title="" alt="" style="margin:auto" >
+
+![GitHub Logo](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg)
 
 
 #Laravel Image Gallery

@@ -1,6 +1,6 @@
-<div style="text-align:center">
-<img src="https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg" title="" alt="" >
-</div>
+
+<img src="https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg" title="" alt="" style="margin:auto" >
+
 
 #Laravel Image Gallery
 Esta galeria é um fork de [DuneBook](https://www.dunebook.com/tutorial-creating-a-photo-gallery-system-with-laravel)

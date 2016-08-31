@@ -1,4 +1,4 @@
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text style](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title margin:auto")
 
 
 ![GitHub Logo](https://3.bp.blogspot.com/-cZ5pOYfMvGk/VspMuXf40MI/AAAAAAAAC2o/fGMcCZazKfQ/s1600/inspectocat.jpg)
